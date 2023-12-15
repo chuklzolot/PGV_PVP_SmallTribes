@@ -26,9 +26,9 @@
         "tab2": {
           "layout": 2,
           "buttontext": "Rates and Server Settings",
-          "title1": "Rates",
+          "title1": "<RichColor Color=\"255,127,80,1\">Rates</>",
           "text1": "XPMultiplier=3.000000\nResourcesRespawnPeriodMultiplier=4.00000\nHarvestAmountMultiplier=4.0\n\nSupplyCrateLootQualityMultiplier=8.000000\nCropGrowthSpeedMultiplier=2\nTamingSpeedMultiplier=10\nMatingIntervalMultiplier=0.15\nMatingSpeedMultiplier=3\nEggHatchSpeedMultiplier=20\nBabyImprintAmountMultiplier=20\nBabyMatureSpeedMultiplier=16\n\n",
-          "title2": "Server Settings",
+          "title2": "<RichColor Color=\"255,127,80,1\">Server Settings</>",
           "text2": "Tribe: Max of 5 players per Tribe\n\nCave Buidling: Disabled\nCave Flying: Disabled\nTheMaxStructuresInRange=10500\nMax Dino: 300\nEngrams: Auto Unlock\nSpeed Leveling: Enabled\n",
           "imageurl": "https://media.discordapp.net/attachments/1184607618933723198/1184607771010814085/PGV_Background.jpg"
         }
@@ -37,7 +37,7 @@
         "tab3": {
           "layout": 1,
           "buttontext": "About PGV",
-          "title1": "Petunias Gaming Village (PGV)",
+          "title1": "<RichColor Color=\"255,127,80,1\">Petunias Gaming Village (PGV)</>",
           "text1": "Welcome to Petunia Gaming Village, where gaming is more than just a hobby – it's a community-driven adventure. Founded by a group of passionate gamers, Petunia Gaming Village is a haven for enthusiasts who share a love for VR, PC, and console gaming.\n\nAt Petunia Gaming Village, our primary focus is on creating a space for gamers of all backgrounds. Whether you're a seasoned player or a newcomer to the gaming world, our community is built on the principles of respect and maturity.\n\nIn addition to playing on this server the PGV community takes a unique approach by gathering members from various tribes on our server to form a temporary tribe on a random server and see just how far our collective skills can take us.\n\nCome be a part of our ever-growing gaming family at Petunia Gaming Village, where the joy of gaming meets the warmth of community. Embrace the adventure, make memories, and let the games unite us all.\n\n",
           "imageurl": "https://media.discordapp.net/attachments/1184607618933723198/1184607771010814085/PGV_Background.jpg"
         }

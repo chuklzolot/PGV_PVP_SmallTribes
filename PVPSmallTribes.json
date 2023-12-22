@@ -3,9 +3,9 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": false,
-        "HideIconAfter": 30,
+        "HideIconAfter": 5,
         "IconURL": "https://media.discordapp.net/attachments/1184607618933723198/1184607750290948116/Logo_Emoji.png",
-        "DisableIconText": false,
+        "DisableIconText": True,
         "IconPosition": 0,
         "IconTextColor": 8,
         "OpenOnStart": true,

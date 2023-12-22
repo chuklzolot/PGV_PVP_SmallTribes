@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 45,
+        "HideIconAfter": 75,
         "IconURL": "https://media.discordapp.net/attachments/1184607618933723198/1184607750290948116/Logo_Emoji.png",
         "DisableIconText": false,
         "IconPosition": 0,
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Server Info",
           "title1": "<RichColor Color=\"255,127,80,1\">Petunias Gaming Village Small Tribes Server</>\n\n <RichColor Color=\"255,127,80,1\">This server will be wiped and start fresh the evening of 12/26</>\n\n <RichColor Color=\"0,1,0,1\">Join our Discord and introduce yourself in the Ark channel to get a free starter kit</>\n<RichColor Color=\"0,1,0,1\">(Within 24 hours of posting)</>\n\n ",
-          "text1": " Admins are happy to help, but do have full time jobs and may not be readily available at all times.\n\n Open a ticket in Discord for any requests\n\n There will be Offline Raid Protection Starting Sunday Evening around 8pm Eastern through around Friday 6pm Eastern.\n\n No Cave Building. \n\n Quality of life mods: Arkomatic, Teleporters, Automated Ark, Imbue and Magic Treat.\n\n\n <RichColor Color=\"0,1,0,1\">Starter kit includes Metal Pick, Metal Hatchet, Metal Pike and a Saddled Level 100 Parasaur</>\n\n <RichColor Color=\"1,0,0,1\">Read all server rules. F1 opens the menu to reference at anytime</> " ,
+          "text1": " Admins are happy to help, but do have full time jobs and may not be readily available at all times.\n\n Open a ticket in Discord for any requests\n\n There will be Offline Raid Protection Starting Sunday Evening around 8pm Eastern through around Friday 6pm Eastern.\n\n Quality of life mods: Arkomatic, Teleporters, Automated Ark, Imbue and Magic Treat.\n\n\n <RichColor Color=\"0,1,0,1\">Starter kit includes Metal Pick, Metal Hatchet, Metal Pike and a Saddled Level 100 Parasaur</>\n\n <RichColor Color=\"1,0,0,1\">Read all server rules. F1 opens the menu to reference at anytime</> " ,
           "imageurl": "https://media.discordapp.net/attachments/1184607618933723198/1184607771010814085/PGV_Background.jpg"
         }
       },

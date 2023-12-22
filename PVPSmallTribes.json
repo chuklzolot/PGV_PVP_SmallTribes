@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": false,
-        "HideIconAfter": 60,
+        "HideIconAfter": 30,
         "IconURL": "https://media.discordapp.net/attachments/1184607618933723198/1184607750290948116/Logo_Emoji.png",
         "DisableIconText": false,
         "IconPosition": 0,

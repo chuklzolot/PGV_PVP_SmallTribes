@@ -42,9 +42,8 @@
           "text2": "Tribe: Max of 5 players per Tribe\n\nCave Buidling: Disabled\nCave Flying: Disabled\nTheMaxStructuresInRange=10500\nMax Wild Dino Level: 300\nEngrams: Auto Unlock\nSpeed Leveling: Enabled\n",
           "imageurl": "https://media.discordapp.net/attachments/1184607618933723198/1184607771010814085/PGV_Background.jpg"
         }
-      }
-    ],
-          {
+      },
+      {
         "tab4": {
           "layout": 1,
           "buttontext": "About PGV",
